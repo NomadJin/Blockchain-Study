@@ -92,7 +92,7 @@
 	4)	위의 과정이 끝나면 모든 노드들은 정족수 이상이 동의한, 즉 합의를 이룬 같은 데이터를 가지게 됨.
 	두 번의 브로드캐스트 과정을 이용해 비잔틴 리더나 비잔틴 검증 노드가 네트워크 분기를 위해 이상한, 혹은 임의의 메시지를 보내도 네트워크의 모든 노드는 같은 메시지를 가질 수 있게 함
 
-	![enter image description here](https://github.com/NomadJin/gitTest/tree/master/image)
+	![Alt text](/image/bftclean.png)
 	
 **머클트리(해시트리)**
 - 여러 블록으로 나누어진 데이터의 정합성을 검증하는 효율적인 방법(토렌트, Git에서 사용)
